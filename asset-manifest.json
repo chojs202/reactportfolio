@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/reactportfolio/static/js/main.cd26f835.js",
+    "static/media/wetube3.png": "/reactportfolio/static/media/wetube3.884150ceed114e5f4ed6.png",
+    "static/media/netflix1.jpeg": "/reactportfolio/static/media/netflix1.79fd3d0b30bf15eaf068.jpeg",
+    "static/media/netflix2.jpeg": "/reactportfolio/static/media/netflix2.c679ddcb6e56d22111a6.jpeg",
+    "static/media/netflix4.jpeg": "/reactportfolio/static/media/netflix4.599971fb0d5970202ecd.jpeg",
+    "static/media/netflix3.jpeg": "/reactportfolio/static/media/netflix3.877bb6beeaffd8525395.jpeg",
+    "static/media/wetube2.png": "/reactportfolio/static/media/wetube2.934538e69687d108dd5c.png",
+    "static/media/todo2.png": "/reactportfolio/static/media/todo2.38a6884e7f6198cb3fee.png",
+    "static/media/wetube1.png": "/reactportfolio/static/media/wetube1.8e088a8ab346a1cf528f.png",
+    "static/media/todo3.png": "/reactportfolio/static/media/todo3.6ea017eb3ca5996fd1da.png",
+    "static/media/todo1.png": "/reactportfolio/static/media/todo1.dd3a728702ebd477926f.png",
+    "static/media/todo4.png": "/reactportfolio/static/media/todo4.e10a2d2a3df4e14c02df.png",
+    "static/media/wetube4.png": "/reactportfolio/static/media/wetube4.c8d9c6cab14a1e43871f.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.cd26f835.js.map": "/reactportfolio/static/js/main.cd26f835.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd26f835.js"
+  ]
+}
