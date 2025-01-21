@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/reactportfolio/static/js/main.cd26f835.js",
+    "main.js": "/reactportfolio/static/js/main.eae630d5.js",
     "static/media/wetube3.png": "/reactportfolio/static/media/wetube3.884150ceed114e5f4ed6.png",
     "static/media/netflix1.jpeg": "/reactportfolio/static/media/netflix1.79fd3d0b30bf15eaf068.jpeg",
     "static/media/netflix2.jpeg": "/reactportfolio/static/media/netflix2.c679ddcb6e56d22111a6.jpeg",
@@ -14,9 +14,9 @@
     "static/media/todo4.png": "/reactportfolio/static/media/todo4.e10a2d2a3df4e14c02df.png",
     "static/media/wetube4.png": "/reactportfolio/static/media/wetube4.c8d9c6cab14a1e43871f.png",
     "index.html": "/reactportfolio/index.html",
-    "main.cd26f835.js.map": "/reactportfolio/static/js/main.cd26f835.js.map"
+    "main.eae630d5.js.map": "/reactportfolio/static/js/main.eae630d5.js.map"
   },
   "entrypoints": [
-    "static/js/main.cd26f835.js"
+    "static/js/main.eae630d5.js"
   ]
 }
